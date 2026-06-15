@@ -31,8 +31,8 @@ curl -fsSL https://github.com/user-attachments/files/28942495/install.sh | bash
 
 After installation, close and reopen your terminal or run:
 ```bash
-source ~/.bashrc  # for bash
-source ~/.zshrc   # for zsh
+source ~/.bashrc  
+source ~/.zshrc   
 ```
 
 ### 🔑 Initial Setup
@@ -159,8 +159,8 @@ curl -fsSL https://github.com/user-attachments/files/28942495/install.sh | bash
 
 بعد از نصب، ترمینال رو ببند و دوباره باز کن:
 ```bash
-source ~/.bashrc  # برای bash
-source ~/.zshrc   # برای zsh
+source ~/.bashrc  
+source ~/.zshrc   
 ```
 
 ### 🔑 تنظیم اولیه
